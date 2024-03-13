@@ -23,12 +23,13 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          Immerse yourself in a captivating world of cinema with our
+          comprehensive selection of critically-praised films. Tailored for your
+          viewing preference, we offer options for both the cinematic experience
+          and the comfort of your home. Whether you favor traditional television
+          broadcasts, subscribe to popular streaming services like Netflix,
+          Prime Video, Hotstar or Jio Cinema, we've curated a diverse list of
+          acclaimed titles to guide you towards your next cinematic adventure.
         </div>
         <div className="socialIcons">
           <a
