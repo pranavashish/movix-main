@@ -19,7 +19,7 @@ Movix - Ultimate Movie and TV Show Discovery Platform</h2>
 
 <h3>🚀 Live Demo</h3>
 
-[https://movix-taupe.vercel.app](https://movix-taupe.vercel.app)
+[https://movix-psi-lemon.vercel.app/](https://movix-psi-lemon.vercel.app/)
 
 <h5>Tending & Popular Movies:</h5>
 
@@ -45,7 +45,7 @@ Movix - Ultimate Movie and TV Show Discovery Platform</h2>
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/masud-rana44/Movix.git
+https://github.com/pranavashish/movix-main.git
 ```
 
 <p>2. Install the required dependencies </p>
@@ -109,7 +109,3 @@ In the development of Movix, we express our gratitude to the following third-par
 <h3>⚠️ Disclaimer</h3>
 
 Please note that Movix relies on the TMDB API to fetch movie and TV show data. The accuracy, completeness, and availability of the data are subject to TMDB's policies and may be subject to change. Users are advised to refer to the TMDB API documentation and terms of use for any restrictions or usage guidelines related to the data accessed through the API.
-
-<h3>💖Like my work?</h3>
-
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
